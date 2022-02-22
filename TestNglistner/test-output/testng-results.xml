@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20719" started-at="2022-01-13T17:05:35 IST" finished-at="2022-01-13T17:05:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20719" started-at="2022-01-13T17:05:35 IST" finished-at="2022-01-13T17:05:56 IST">
+      <class name="com.cjc.Mercurydemo">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="openBrowser" is-config="true" duration-ms="9401" started-at="2022-01-13T17:05:26 IST" finished-at="2022-01-13T17:05:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="enterApplication()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="enterApplication" is-config="true" duration-ms="12637" started-at="2022-01-13T17:05:35 IST" finished-at="2022-01-13T17:05:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterApplication -->
+        <test-method status="PASS" signature="maximizeWindow()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="maximizeWindow" is-config="true" duration-ms="184" started-at="2022-01-13T17:05:48 IST" finished-at="2022-01-13T17:05:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeWindow -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="getAllCookies" is-config="true" duration-ms="81" started-at="2022-01-13T17:05:48 IST" finished-at="2022-01-13T17:05:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginchech()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="loginchech" duration-ms="3111" started-at="2022-01-13T17:05:48 IST" finished-at="2022-01-13T17:05:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginchech -->
+        <test-method status="PASS" signature="captureScreenShot()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="captureScreenShot" is-config="true" duration-ms="597" started-at="2022-01-13T17:05:51 IST" finished-at="2022-01-13T17:05:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenShot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="getAllCookies" is-config="true" duration-ms="401" started-at="2022-01-13T17:05:52 IST" finished-at="2022-01-13T17:05:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginchech1()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="loginchech1" duration-ms="1198" started-at="2022-01-13T17:05:52 IST" finished-at="2022-01-13T17:05:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginchech1 -->
+        <test-method status="PASS" signature="captureScreenShot()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="captureScreenShot" is-config="true" duration-ms="262" started-at="2022-01-13T17:05:54 IST" finished-at="2022-01-13T17:05:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenShot -->
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="deleteCookies" is-config="true" duration-ms="2086" started-at="2022-01-13T17:05:54 IST" finished-at="2022-01-13T17:05:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method status="PASS" signature="dbConnectionClosed()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="dbConnectionClosed" is-config="true" duration-ms="0" started-at="2022-01-13T17:05:56 IST" finished-at="2022-01-13T17:05:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnectionClosed -->
+        <test-method status="PASS" signature="closesedBrowser()[pri:0, instance:com.cjc.Mercurydemo@52feb982]" name="closesedBrowser" is-config="true" duration-ms="374" started-at="2022-01-13T17:05:56 IST" finished-at="2022-01-13T17:05:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesedBrowser -->
+      </class> <!-- com.cjc.Mercurydemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
