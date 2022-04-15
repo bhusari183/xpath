@@ -8,6 +8,7 @@ public class DemoIsueit implements ISuiteListener{
 	public void onStart(ISuite suite)
 	{
 		System.out.println(" on start method of Isuite");
+		System.out.println(" on start method of Isuite");
 	}
 
 	public void onFinish(ISuite suite)
