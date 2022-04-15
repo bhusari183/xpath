@@ -14,5 +14,6 @@ public class DemoIsueit implements ISuiteListener{
 	public void onFinish(ISuite suite)
 	{
 		System.out.println("onFinish method of siute");
+		System.out.println("onFinish method of siute");
 	}
 }
